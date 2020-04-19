@@ -1,0 +1,31 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Schneider%
+\ \BBA {} Stephens%
+}{%
+Schneider%
+\ \BBA {} Stephens%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+schneider1999}
+\APACinsertmetastar {%
+schneider1999}%
+\begin{APACrefauthors}%
+Schneider, T\BPBI D.%
+\BCBT {}\ \BBA {} Stephens, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sequence Logos: A New Way to Display Consensus
+  Sequences} {Sequence logos: A new way to display consensus sequences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nucleic Acids Research}{18}{20}{6097--6100}.
+\newblock
+\begin{APACrefDOI} \doi{10.1093/nar/18.20.6097} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -723,11 +723,11 @@ Conclusions: The ProfileGrid representation allows for the clear and effective a
   number = {5}
 }
 
-@article{schneider1999,
+@article{schneider1990,
   title = {Sequence Logos: A New Way to Display Consensus Sequences},
   shorttitle = {Sequence Logos},
   author = {Schneider, Thomas D. and Stephens, R.Michael},
-  year = {1999},
+  year = {1990},
   volume = {18},
   pages = {6097--6100},
   issn = {0305-1048, 1362-4962},
