@@ -95,16 +95,34 @@ INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.s
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\english.apc
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex\latex\apacite\english.apc
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+OUTPUT c:\Users\Gil\Documents\binf1\binf1.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
+INPUT c:\Users\Gil\Documents\binf1\cover.pdf
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr7t.tfm
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb7t.tfm
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvro7t.tfm
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb7t.tfm
-INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
-INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
-OUTPUT c:\Users\Gil\Documents\binf1\binf1.pdf
-INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
-INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
-INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb7t.vf
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Users\Gil\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
@@ -114,6 +132,11 @@ INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phv
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvro8r.tfm
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb7t.vf
 INPUT C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
+INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
+INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
+INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
+INPUT c:\Users\Gil\Documents\binf1\sequence_logos.png
 INPUT c:\Users\Gil\Documents\binf1\binf1.bbl
 INPUT c:\Users\Gil\Documents\binf1\binf1.bbl
 INPUT c:\Users\Gil\Documents\binf1\binf1.aux

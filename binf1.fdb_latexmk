@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex binf1"] 1587575097 "binf1.aux" "binf1.bbl" "binf1" 1587575271
+["bibtex binf1"] 1587581093 "binf1.aux" "binf1.bbl" "binf1" 1587581224
   "C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
   "bib.bib" 1587572838 67057 7ba79cc21ae4f49f42be5c0bc4259043 ""
-  "binf1.aux" 1587575270 1510 80a61c46cfcfeca5cecc449e58642b6d "pdflatex"
+  "binf1.aux" 1587581223 1510 ada08138e96d041ad7cfb24f5ab4784e "pdflatex"
   (generated)
-  "binf1.blg"
   "binf1.bbl"
-["pdflatex"] 1587575270 "c:/Users/Gil/Documents/binf1/binf1.tex" "c:\Users\Gil\Documents\binf1/binf1.pdf" "binf1" 1587575271
+  "binf1.blg"
+["pdflatex"] 1587581223 "c:/Users/Gil/Documents/binf1/binf1.tex" "c:\Users\Gil\Documents\binf1/binf1.pdf" "binf1" 1587581224
   "C:/Users/Gil/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1580580969 4245395 57c0c021a7c1ef53728b9f09a36a7579 ""
   "C:/Users/Gil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1587039290 98449 c2e783073673dddeac143d289c0bea61 ""
   "C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -68,15 +68,16 @@
   "C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/calc.sty" 1573428444 10216 54c740cb9d999378b16df7e5c92c17a0 ""
   "C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/indentfirst.sty" 1573428444 1619 81f309217cfe2e8a93458f2cc7188755 ""
   "C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
-  "binf1.aux" 1587575270 1510 80a61c46cfcfeca5cecc449e58642b6d "pdflatex"
-  "binf1.bbl" 1587575097 2814 2626f911fe1b916ac4f416b72045b66b "bibtex binf1"
-  "binf1.tex" 1587575269 3031 c0a8acfa030d947f3a1fa24b56c15aec ""
-  "c:/Users/Gil/Documents/binf1/binf1.tex" 1587575269 3031 c0a8acfa030d947f3a1fa24b56c15aec ""
-  "c:\Users\Gil\Documents\binf1/binf1.aux" 1587575270 1510 80a61c46cfcfeca5cecc449e58642b6d ""
+  "binf1.aux" 1587581223 1510 ada08138e96d041ad7cfb24f5ab4784e "pdflatex"
+  "binf1.bbl" 1587581093 2814 2626f911fe1b916ac4f416b72045b66b "bibtex binf1"
+  "binf1.tex" 1587581090 3059 819187b440ce01fe44c6142b12374b63 ""
+  "c:/Users/Gil/Documents/binf1/binf1.tex" 1587581090 3059 819187b440ce01fe44c6142b12374b63 ""
+  "c:\Users\Gil\Documents\binf1/binf1.aux" 1587581223 1510 ada08138e96d041ad7cfb24f5ab4784e ""
+  "cover.pdf" 1587581144 210446 28aaaf1d0ad91603de330153e5862052 ""
   "sequence_logos.png" 1587573518 56421 727bb2334ef8e423235357111a486b3f ""
   (generated)
-  "binf1.pdf"
-  "binf1.aux"
   "c:\Users\Gil\Documents\binf1/binf1.log"
-  "c:\Users\Gil\Documents\binf1/binf1.pdf"
+  "binf1.aux"
+  "binf1.pdf"
   "binf1.log"
+  "c:\Users\Gil\Documents\binf1/binf1.pdf"
