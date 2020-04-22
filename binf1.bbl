@@ -1,24 +1,106 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Schneider%
-\ \BBA {} Stephens%
+Liljas%
 }{%
-Schneider%
-\ \BBA {} Stephens%
+Liljas%
 }{%
-{\protect \APACyear {1999}}%
+{\protect \APACyear {2001}}%
 }]{%
-schneider1999}
+liljas2001}
 \APACinsertmetastar {%
-schneider1999}%
+liljas2001}%
+\begin{APACrefauthors}%
+Liljas, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Consensus {{Sequence}}} {Consensus {{Sequence}}}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Encyclopedia of {{Genetics}}} {Encyclopedia of
+  {{Genetics}}}\ (\BPGS\ 457--458).
+\newblock
+\APACaddressPublisher{}{{Elsevier}}.
+\newblock
+\begin{APACrefDOI} \doi{10.1006/rwgn.2001.0270} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ma%
+, Campbell%
+\BCBL {}\ \BBA {} Karlin%
+}{%
+Ma%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2002}}%
+}]{%
+ma2002}
+\APACinsertmetastar {%
+ma2002}%
+\begin{APACrefauthors}%
+Ma, J.%
+, Campbell, A.%
+\BCBL {}\ \BBA {} Karlin, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Correlations between {{Shine}}-{{Dalgarno Sequences}}
+  and {{Gene Features Such}} as {{Predicted Expression Levels}} and {{Operon
+  Structures}}} {Correlations between {{Shine}}-{{Dalgarno Sequences}} and
+  {{Gene Features Such}} as {{Predicted Expression Levels}} and {{Operon
+  Structures}}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Bacteriology}{184}{20}{5733--5745}.
+\newblock
+\begin{APACrefDOI} \doi{10.1128/JB.184.20.5733-5745.2002} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pierce%
+}{%
+Pierce%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+pierce2012}
+\APACinsertmetastar {%
+pierce2012}%
+\begin{APACrefauthors}%
+Pierce, B\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Genetics: A Conceptual Approach} {Genetics: A conceptual
+  approach}\ (\PrintOrdinal{4th ed}\ \BEd).
+\newblock
+\APACaddressPublisher{{New York}}{{W.H. Freeman}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Schneider%
+\ \BBA {} Stephens%
+}{%
+Schneider%
+\ \BBA {} Stephens%
+}{%
+{\protect \APACyear {1990}}%
+}]{%
+schneider1990}
+\APACinsertmetastar {%
+schneider1990}%
 \begin{APACrefauthors}%
 Schneider, T\BPBI D.%
 \BCBT {}\ \BBA {} Stephens, R.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{1999}{}{}.
+\APACrefYearMonthDay{1990}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Sequence Logos: A New Way to Display Consensus
   Sequences} {Sequence logos: A new way to display consensus sequences}.{\BBCQ}

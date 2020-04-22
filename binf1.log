@@ -1,22 +1,21 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.1)  16 APR 2020 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.1)  22 APR 2020 18:07
 entering extended mode
 **c:/Users/Gil/Documents/binf1/binf1.tex
 (c:/Users/Gil/Documents/binf1/binf1.tex
 LaTeX2e <2018-12-01>
-("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
 ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
 File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -30,15 +29,15 @@ Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count89
-\calc@Bcount=\count90
+\calc@Acount=\count88
+\calc@Bcount=\count89
 \calc@Adimen=\dimen103
 \calc@Bdimen=\dimen104
 \calc@Askip=\skip43
 \calc@Bskip=\skip44
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count91
+\calc@Ccount=\count90
 \calc@Cskip=\skip45
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
@@ -94,18 +93,18 @@ File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box27
 \AM@global@opts=\toks17
-\AM@pagecnt=\count92
+\AM@pagecnt=\count91
 \AM@toc@title=\toks18
-\c@AM@survey=\count93
+\c@AM@survey=\count92
 \AM@templatesizebox=\box28
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
 Package: geometry 2020/01/02 v5.9 Page Geometry
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count94
-\Gm@cntv=\count95
-\c@Gm@tempcnt=\count96
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
 \Gm@bindingoffset=\dimen109
 \Gm@wd@mp=\dimen110
 \Gm@odd@mp=\dimen111
@@ -129,11 +128,11 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
 Language: english 2017/06/06 v3.3r English support from the babel system
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2020/01/15 3.38 Babel common definitions
-\babel@savecnt=\count97
+\babel@savecnt=\count96
 \U@D=\dimen117
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
 \bbl@readstream=\read1
-\bbl@dirlevel=\count98
+\bbl@dirlevel=\count97
 )
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -143,7 +142,7 @@ Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language76) on input line 108.
 )) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\apacite.sty"
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count99
+\c@BibCnt=\count98
 \bibleftmargin=\skip46
 \bibindent=\skip47
 \bibparsep=\skip48
@@ -151,34 +150,40 @@ Package: apacite 2013/07/21 v6.03 APA citation
 \biblabelsep=\skip50
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) (binf1.aux)
+) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+) (c:\Users\Gil\Documents\binf1\binf1.aux)
 \openout1 = `binf1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 20.
+ ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
 \AtBeginShipoutBox=\box29
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
+\scratchcounter=\count99
 \scratchdimen=\dimen118
 \scratchbox=\box30
-\nofMPsegments=\count101
-\nofMParguments=\count102
+\nofMPsegments=\count100
+\nofMParguments=\count101
 \everyMPshowfont=\toks20
-\MPscratchCnt=\count103
+\MPscratchCnt=\count102
 \MPscratchDim=\dimen119
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
+\MPnumerator=\count103
+\makeMPintoPDFobject=\count104
 \everyMPtoPDFconversion=\toks21
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -243,33 +248,38 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@maskedRefs=\count106
+\c@maskedRefs=\count105
 ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\english.apc"
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
 LaTeX Info: Redefining \BHBI on input line 130.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 17.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 17.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 24.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 30.
+<sequence_logos.png, id=1, 766.36313pt x 564.60938pt>
+File: sequence_logos.png Graphic file (type png)
+<use sequence_logos.png>
+Package pdftex.def Info: sequence_logos.png  used on input line 39.
+(pdftex.def)             Requested size: 383.18063pt x 282.30399pt.
  [1
 
-{C:/Users/Gil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (binf1.bbl [1]) [2
-
-] (binf1.aux) ) 
+{C:/Users/Gil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <c:/Users/Gil/Documents/binf1/sequence_logos.png>] (c:\Users\Gil\Documents\binf1\binf1.bbl) [3] (c:\Users\Gil\Documents\binf1\binf1.aux) ) 
 Here is how much of TeX's memory you used:
- 4316 strings out of 492893
- 63288 string characters out of 3124644
- 151347 words of memory out of 3000000
- 8167 multiletter control sequences out of 15000+200000
- 6709 words of font info for 24 fonts, out of 3000000 for 9000
+ 4379 strings out of 492893
+ 64536 string characters out of 3124644
+ 153449 words of memory out of 3000000
+ 8218 multiletter control sequences out of 15000+200000
+ 11456 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,6n,39p,466b,181s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on binf1.pdf (3 pages, 50937 bytes).
+ 38i,7n,39p,574b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on c:\Users\Gil\Documents\binf1\binf1.pdf (3 pages, 66871 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
