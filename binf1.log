@@ -1,66 +1,82 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.2.1)  22 APR 2020 19:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.4.24)  24 APR 2020 11:20
 entering extended mode
-**c:/Users/Gil/Documents/binf1/binf1.tex
-(c:/Users/Gil/Documents/binf1/binf1.tex
-LaTeX2e <2018-12-01>
+**./binf1.tex
+(binf1.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-04-06>
 ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.sty"
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.st
+y"
 Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count88
-\calc@Bcount=\count89
-\calc@Adimen=\dimen103
-\calc@Bdimen=\dimen104
-\calc@Askip=\skip43
-\calc@Bskip=\skip44
+\calc@Acount=\count175
+\calc@Bcount=\count176
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count90
-\calc@Cskip=\skip45
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
+\calc@Ccount=\count177
+\calc@Cskip=\skip51
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.sty"
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.
+sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr
+.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.sty"
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.st
+y"
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-))) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks17
 ) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.c
+fg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.
+def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -72,67 +88,87 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.st
+y"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.st
+y"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphic
+s.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen105
-\Gin@req@width=\dimen106
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
 )
-\AM@pagewidth=\dimen107
-\AM@pageheight=\dimen108
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.def"
+\AM@pagewidth=\dimen139
+\AM@pageheight=\dimen140
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.de
+f"
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
-\AM@pagebox=\box27
-\AM@global@opts=\toks17
-\AM@pagecnt=\count91
-\AM@toc@title=\toks18
-\c@AM@survey=\count92
-\AM@templatesizebox=\box28
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+\AM@pagebox=\box45
+\AM@global@opts=\toks18
+\AM@pagecnt=\count178
+\AM@toc@title=\toks19
+\c@AM@survey=\count179
+\AM@templatesizebox=\box46
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.st
+y"
 Package: geometry 2020/01/02 v5.9 Page Geometry
  ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count93
-\Gm@cntv=\count94
-\c@Gm@tempcnt=\count95
-\Gm@bindingoffset=\dimen109
-\Gm@wd@mp=\dimen110
-\Gm@odd@mp=\dimen111
-\Gm@even@mp=\dimen112
-\Gm@layoutwidth=\dimen113
-\Gm@layoutheight=\dimen114
-\Gm@layouthoffset=\dimen115
-\Gm@layoutvoffset=\dimen116
-\Gm@dimlist=\toks19
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2020/01/15 3.38 The Babel package
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
-File: switch.def 2020/01/15 3.38 Babel switching mechanism
+\Gm@cnth=\count180
+\Gm@cntv=\count181
+\c@Gm@tempcnt=\count182
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks20
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cf
+g"))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2020/03/22 3.42 The Babel package
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
 ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\englis
+h.ldf"
 Language: english 2017/06/06 v3.3r English support from the babel system
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2020/01/15 3.38 Babel common definitions
-\babel@savecnt=\count96
-\U@D=\dimen117
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
-\bbl@readstream=\read1
-\bbl@dirlevel=\count97
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count183
+\U@D=\dimen149
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def
+")
+\bbl@readstream=\read2
+\bbl@dirlevel=\count184
 )
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
@@ -140,78 +176,347 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 (babel)             (\language76) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language76) on input line 108.
-)) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\apacite.sty"
-Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count98
-\bibleftmargin=\skip46
-\bibindent=\skip47
-\bibparsep=\skip48
-\bibitemsep=\skip49
-\biblabelsep=\skip50
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.sty"
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-) (c:\Users\Gil\Documents\binf1\binf1.aux)
-\openout1 = `binf1.aux'.
+))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.st
+y"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 20.
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmd
+s.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
-\AtBeginShipoutBox=\box29
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count99
-\scratchdimen=\dimen118
-\scratchbox=\box30
-\nofMPsegments=\count100
-\nofMParguments=\count101
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count102
-\MPscratchDim=\dimen119
-\MPnumerator=\count103
-\makeMPintoPDFobject=\count104
-\everyMPtoPDFconversion=\toks21
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdefinekeys.sty"
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkeys.sty"
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.st
+y"
+Package: etoolbox 2019/09/09 v2.5g e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count185
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.s
+ty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetkey
+s.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count186
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count187
+\c@listtotal=\count188
+\c@listcount=\count189
+\c@liststart=\count190
+\c@liststop=\count191
+\c@citecount=\count192
+\c@citetotal=\count193
+\c@multicitecount=\count194
+\c@multicitetotal=\count195
+\c@instcount=\count196
+\c@maxnames=\count197
+\c@minnames=\count198
+\c@maxitems=\count199
+\c@minitems=\count266
+\c@citecounter=\count267
+\c@maxcitecounter=\count268
+\c@savedcitecounter=\count269
+\c@uniquelist=\count270
+\c@uniquename=\count271
+\c@refsection=\count272
+\c@refsegment=\count273
+\c@maxextratitle=\count274
+\c@maxextratitleyear=\count275
+\c@maxextraname=\count276
+\c@maxextradate=\count277
+\c@maxextraalpha=\count278
+\c@abbrvpenalty=\count279
+\c@highnamepenalty=\count280
+\c@lownamepenalty=\count281
+\c@maxparens=\count282
+\c@parenlevel=\count283
+\blx@tempcnta=\count284
+\blx@tempcntb=\count285
+\blx@tempcntc=\count286
+\blx@maxsection=\count287
+\blx@maxsegment@0=\count288
+\blx@notetype=\count289
+\blx@parenlevel@text=\count290
+\blx@parenlevel@foot=\count291
+\blx@sectionciteorder@0=\count292
+\blx@entrysetcounter=\count293
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language82
+\c@mincomprange=\count294
+\c@maxcomprange=\count295
+\c@mincompwidth=\count296
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count297
+\c@savedafterword=\count298
+\c@annotator=\count299
+\c@savedannotator=\count300
+\c@author=\count301
+\c@savedauthor=\count302
+\c@bookauthor=\count303
+\c@savedbookauthor=\count304
+\c@commentator=\count305
+\c@savedcommentator=\count306
+\c@editor=\count307
+\c@savededitor=\count308
+\c@editora=\count309
+\c@savededitora=\count310
+\c@editorb=\count311
+\c@savededitorb=\count312
+\c@editorc=\count313
+\c@savededitorc=\count314
+\c@foreword=\count315
+\c@savedforeword=\count316
+\c@holder=\count317
+\c@savedholder=\count318
+\c@introduction=\count319
+\c@savedintroduction=\count320
+\c@namea=\count321
+\c@savednamea=\count322
+\c@nameb=\count323
+\c@savednameb=\count324
+\c@namec=\count325
+\c@savednamec=\count326
+\c@translator=\count327
+\c@savedtranslator=\count328
+\c@shortauthor=\count329
+\c@savedshortauthor=\count330
+\c@shorteditor=\count331
+\c@savedshorteditor=\count332
+\c@labelname=\count333
+\c@savedlabelname=\count334
+\c@institution=\count335
+\c@savedinstitution=\count336
+\c@lista=\count337
+\c@savedlista=\count338
+\c@listb=\count339
+\c@savedlistb=\count340
+\c@listc=\count341
+\c@savedlistc=\count342
+\c@listd=\count343
+\c@savedlistd=\count344
+\c@liste=\count345
+\c@savedliste=\count346
+\c@listf=\count347
+\c@savedlistf=\count348
+\c@location=\count349
+\c@savedlocation=\count350
+\c@organization=\count351
+\c@savedorganization=\count352
+\c@origlocation=\count353
+\c@savedoriglocation=\count354
+\c@origpublisher=\count355
+\c@savedorigpublisher=\count356
+\c@publisher=\count357
+\c@savedpublisher=\count358
+\c@language=\count359
+\c@savedlanguage=\count360
+\c@origlanguage=\count361
+\c@savedoriglanguage=\count362
+\c@pageref=\count363
+\c@savedpageref=\count364
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-compat.
+def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.de
+f"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count365
+\c@textcitetotal=\count366
+\c@textcitemaxnames=\count367
+\c@biburlbigbreakpenalty=\count368
+\c@biburlbreakpenalty=\count369
+\c@biburlnumpenalty=\count370
+\c@biburlucpenalty=\count371
+\c@biburllcpenalty=\count372
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count373
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\numeric
+.bbx"
+File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\standar
+d.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count374
+\c@bbx:relatedtotal=\count375
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\numeric
+.cbx"
+File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblatex.cf
+g"
+File: biblatex.cfg 
+))
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.st
+y"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\helvet.sty"
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\english
+.lbx"
+File: english.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count376
+\@quotereset=\count377
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend-
+pdfmode.def"
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count378
+\l__pdf_internal_box=\box47
+) (binf1.aux)
+\openout1 = `binf1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
+3.
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
+)
+\AtBeginShipoutBox=\box48
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf
+.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count379
+\scratchdimen=\dimen150
+\scratchbox=\box49
+\nofMPsegments=\count380
+\nofMParguments=\count381
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count382
+\MPscratchDim=\dimen151
+\MPnumerator=\count383
+\makeMPintoPDFobject=\count384
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-ba
+se.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-) ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.sty"
+)
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.s
+ty"
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
- ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
+ ("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty
+"
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 ))
 *geometry* driver: auto-detecting
@@ -248,79 +553,137 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@maskedRefs=\count105
-("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/apacite\english.apc"
-File: english.apc 2013/07/21 v6.03 apacite language file
-LaTeX Info: Redefining \BPBI on input line 129.
-LaTeX Info: Redefining \BHBI on input line 130.
-)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout3 = `binf1.bcf'.
 
-pdfTeX warning: pdflatex (file c:/Users/Gil/Documents/binf1/cover.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'binf1.bbl' found.
+(binf1.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+
+
+pdfTeX warning: pdflatex (file ./cover.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
 <cover.pdf, id=1, 597.55246pt x 845.07718pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 22.
+Package pdftex.def Info: cover.pdf  used on input line 25.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
-pdfTeX warning: pdflatex (file c:/Users/Gil/Documents/binf1/cover.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./cover.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 22.
+Package pdftex.def Info: cover.pdf  used on input line 25.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
-pdfTeX warning: pdflatex (file c:/Users/Gil/Documents/binf1/cover.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./cover.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file c:/Users/Gil/Documents/binf1/cover.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./cover.pdf): PDF inclusion: found PDF version <
+1.6>, but at most version <1.5> allowed
 <cover.pdf, id=4, page=1, 597.55246pt x 845.07718pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 22.
+Package pdftex.def Info: cover.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 22.
+Package pdftex.def Info: cover.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 22.
+Package pdftex.def Info: cover.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 22.
+Package pdftex.def Info: cover.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 22.
+Package pdftex.def Info: cover.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.57834pt x 845.1138pt.
 [1
 
- <c:/Users/Gil/Documents/binf1/cover.pdf>]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 24.
+ <./cover.pdf>]
+
+LaTeX Warning: Citation 'pierce2012' on page 2 undefined on input line 29.
+
+
+LaTeX Warning: Citation 'liljas2001' on page 2 undefined on input line 29.
+
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <12> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 30.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 30.
- [2{C:/Users/Gil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 33.
+
+LaTeX Warning: Citation 'ma2002' on page 2 undefined on input line 33.
+
+[2{C:/Users/Gil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+LaTeX Warning: Citation 'schneider1990' on page 3 undefined on input line 40.
+
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 4
+3.
+("C:\Users\Gil\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1phv.fd"
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
 <sequence_logos.png, id=36, 766.36313pt x 564.60938pt>
 File: sequence_logos.png Graphic file (type png)
 <use sequence_logos.png>
-Package pdftex.def Info: sequence_logos.png  used on input line 40.
+Package pdftex.def Info: sequence_logos.png  used on input line 52.
 (pdftex.def)             Requested size: 383.18063pt x 282.30399pt.
- [3 <c:/Users/Gil/Documents/binf1/sequence_logos.png>] (c:\Users\Gil\Documents\binf1\binf1.bbl) [4] (c:\Users\Gil\Documents\binf1\binf1.aux) ) 
+
+
+LaTeX Warning: Citation 'schneider1990' on page 3 undefined on input line 53.
+
+
+LaTeX Warning: Citation 'schneider1990' on page 3 undefined on input line 53.
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 53--53
+[]\OT1/phv/m/n/12 Figure 1: The Se-quence Logo rep-re-sen-ta-tion of the \OT1/p
+hv/m/sl/12 E. coli \OT1/phv/m/n/12 bind-ing site
+ []
+
+
+LaTeX Warning: Citation 'schneider1990' on page 3 undefined on input line 57.
+
+[3] [4 <./sequence_logos.png>]
+
+LaTeX Warning: Empty bibliography on input line 64.
+
+(binf1.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                binf1
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'binf1.run.xml'.
+\openout1 = `binf1.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4388 strings out of 492893
- 64712 string characters out of 3124644
- 153449 words of memory out of 3000000
- 8225 multiletter control sequences out of 15000+200000
- 11456 words of font info for 24 fonts, out of 3000000 for 9000
+ 11045 strings out of 480896
+ 196970 string characters out of 2899131
+ 836174 words of memory out of 3000000
+ 26807 multiletter control sequences out of 15000+200000
+ 540467 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,18n,43p,574b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on c:\Users\Gil\Documents\binf1\binf1.pdf (4 pages, 273676 bytes).
+ 45i,18n,46p,845b,1598s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
+pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vr8a.pfb><C:/Users/Gil/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvet
+ic/uhvro8a.pfb>
+Output written on binf1.pdf (4 pages, 269505 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -4,11 +4,14 @@
 \usepackage{pdfpages} % package that allows the inclusion of pdf pages
 \usepackage[a4paper, total={6in, 9in}]{geometry} % package for A4
 \usepackage[english]{babel}
-\usepackage{apacite}  % package for APA citations
+\usepackage[backend=biber]{biblatex}
 \usepackage{graphicx}  % package that adds images
 \usepackage{indentfirst}
 \usepackage{helvet} % load Helvetica package
-\renewcommand{\familydefault}{\sfdefault} % change font to Helvetics
+
+\addbibresource{bib.bib}
+
+\renewcommand{\familydefault}{\sfdefault} % change font to Helvetica
 
 \renewcommand{\baselinestretch}{1.5}  % change line spacing
 
@@ -23,28 +26,41 @@
 
 \section{Introduction}
 
-Consensus sequences are sequences of nucleotides (on DNA and RNA) or amino acids (in protein), which are comprised of the most commonly encountered letters at that postion \cite{pierce2012}. These sequences are generally associated with inter- or intramolecular interactions \cite{liljas2001}. A prime example is the Shine-Dalgarno (SD) sequence in prokaryotes, which is involved in the binding of the ribossome to the mRNA.
+Consensus sequences are sequences of nucleotides (on DNA and RNA) or amino acids (in protein), which are comprised of the most commonly encountered letters at that postion \parencite{pierce2012}. These sequences are generally associated with inter- or intramolecular interactions \parencite{liljas2001}. A prime example is the Shine-Dalgarno (SD) sequence in prokaryotes, which is involved in the binding of the ribossome to the mRNA.
 
 Even though these sequences are highly conserved, they do present some variations in between organisms and thus, mearly writing out the consensus sequence leaves out information about the frequence and variation of each of the nucleotides or aminoacids in the sequence, which can be very important in Molecular Biology or Bioinformatics analysis.
 
-Let's take the example of the aforementioned consensus sequence. In \textit{E. coli} the SD sequence is \textbf{5'-AGGAGG-3'}. This sequence, however, has been shown to have slight variations in different bacteria \cite{ma2002} and thus a bioinformatician, when programming a gene prediction tool, may be misled to believe that that's the full extent of the SD sequence, when it's not. Moreover, one may argue that studying the variety of consensus sequences is important in undertanding intermollecular interactions.
+Let's take the example of the aforementioned consensus sequence. In \textit{E. coli} the SD sequence is \textbf{5'-AGGAGG-3'}. This sequence, however, has been shown to have slight variations in different bacteria \parencite{ma2002} and thus a bioinformatician, when programming a gene prediction tool, may be misled to believe that that's the full extent of the SD sequence, when it's not. Moreover, one may argue that studying the variety of consensus sequences is important in undertanding intermollecular interactions.
 
 We then arrive at the logical conclusion that the visualisation of consensus sequences plays a very important role in various Molecular Biology and Bioinformatics studies and is therefore relevant to study better ways to display the available data in a way that's informative, visually appealing and easy to understand.
 
 \newpage
+
 \section{Sequence logos}
-Faced with the challanges of creating a visual representation of consensus sequences that provides more information than just the sequence of letters, Schnider and Stephens came forward with a proposal, for which they called Sequence Logos (Fig. \ref{fig:eColiSequenceLogo})  \cite{schneider1990}.
+Faced with the challanges of creating a visual representation of consensus sequences that provides more information than just the sequence of letters, Schnider and Stephens came forward with a proposal, for which they called Sequence Logos (Fig. \ref{fig:eColiSequenceLogo})  \parencite{schneider1990}. According to the authors, the sequence logos are able to provide the following information:
+
+\begin{itemize}
+    \item The general consensus of the sequences;
+    \item The order of predominance of the residues at every position;
+    \item The relative frequency of the residues at every position;
+    \item The amount of information present at every postiion in the sequence, measured in bits;
+    \item The initiation point, cut point, ot other significate location (if appropriate).
+\end{itemize}
 
 \begin{figure}
     \centering
     \includegraphics[scale=0.5]{sequence_logos}
-    \caption{The Sequence Logo representation of the \textit{E. coli} binding site \protect \cite[p. 2]{schneider1990}.}
+    \caption{The Sequence Logo representation of the \textit{E. coli} binding site \protect \parencite[p. 2]{schneider1990}.}
     \label{fig:eColiSequenceLogo}
 \end{figure}
 
+In order to assemble these logos, one has to first align the sequences, so that a table of frequences can than be constructed \parencite{schneider1990}. That table 
+
+As we can see, this graphical method of representing data is a major step forward in relation with what existed before, as this logos allowed us to get a better feel for the relative frequences of the residues at every position, which is crucial for a more complete understanding of such sequences.
+
+
 
 \newpage    % start new page
-\bibliographystyle{apacite}  % set bibliography to APA
-\bibliography{bib}  % print bibliography from bib.bib file
+\printbibliography
 
 \end{document}
