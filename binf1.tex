@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}  % define document classs
+\documentclass[12pt]{article}  % define document class
 
 \usepackage[utf8]{inputenc} % use UTF-8
 \usepackage{pdfpages} % package that allows the inclusion of pdf pages
@@ -32,31 +32,61 @@ Even though these sequences are highly conserved, they do present some variation
 
 Let's take the example of the aforementioned consensus sequence. In \textit{E. coli} the SD sequence is \textbf{5'-AGGAGG-3'}. This sequence, however, has been shown to have slight variations in different bacteria \parencite{ma2002} and thus a bioinformatician, when programming a gene prediction tool, may be misled to believe that that's the full extent of the SD sequence, when it's not. Moreover, one may argue that studying the variety of consensus sequences is important in undertanding intermollecular interactions.
 
+Moreover, there's evidence \parencite{cook2008} to support the notion that graphical evidence, as opposed to evidence with a text baseline, helps intelligence analysis, such as medical and military decisions, by allowing experts to provide a more balanced and less biased decision. Given the fact that these sequences can have biomedical relevance, we can postulate that these more visual representations of data may help decrease bias in interpretation of disease-related sequences, for instance.
+
 We then arrive at the logical conclusion that the visualisation of consensus sequences plays a very important role in various Molecular Biology and Bioinformatics studies and is therefore relevant to study better ways to display the available data in a way that's informative, visually appealing and easy to understand.
 
 \newpage
 
-\section{Sequence logos}
-Faced with the challanges of creating a visual representation of consensus sequences that provides more information than just the sequence of letters, Schnider and Stephens came forward with a proposal, for which they called Sequence Logos (Fig. \ref{fig:eColiSequenceLogo})  \parencite{schneider1990}. According to the authors, the sequence logos are able to provide the following information:
+\section{Sequence Logos}
 
-\begin{itemize}
-    \item The general consensus of the sequences;
-    \item The order of predominance of the residues at every position;
-    \item The relative frequency of the residues at every position;
-    \item The amount of information present at every postiion in the sequence, measured in bits;
-    \item The initiation point, cut point, ot other significate location (if appropriate).
-\end{itemize}
+Faced with the challenges of creating a visual representation of consensus sequences that provides more information than just the mere sequence of letters, Schnider and Stephens came forward with a proposal for a new paradigm in consensus sequences visualisation, for which they called Sequence Logos (Fig. \ref{fig:eColiSequenceLogo})  \parencite{schneider1990}.
 
-\begin{figure}
+\begin{figure}[!b]
     \centering
-    \includegraphics[scale=0.5]{sequence_logos}
+    \includegraphics[scale=0.4]{sequence_logos}
     \caption{The Sequence Logo representation of the \textit{E. coli} binding site \protect \parencite[p. 2]{schneider1990}.}
     \label{fig:eColiSequenceLogo}
 \end{figure}
 
-In order to assemble these logos, one has to first align the sequences, so that a table of frequences can than be constructed \parencite{schneider1990}. That table 
+The Sequence Logos are comprised of four elements: the letters, which are shaped to become the "bar" of the chart; the colour, which is used to differentiate each of the symbols, even though a grayscale can also be employed; the height, which represents the conservation level of the residue at a particular alignment column and the axes, the horizontal one representing the location and the vertical the frequency and conservation level of the symbols \parencite{nungkion2012}.
 
-As we can see, this graphical method of representing data is a major step forward in relation with what existed before, as this logos allowed us to get a better feel for the relative frequences of the residues at every position, which is crucial for a more complete understanding of such sequences.
+Making Sequence Logos nowadays is very easy, given the fact that there are free tools available. One such example is WebLogo, that automatically generates Sequence Logos from multiple sequence alignments (MSAs) \parencite{crooks2004}. 
+
+As we can see, this graphical method of representing data is a major step forward in relation with what existed before, as these logos allowed us to get a better feel for the relative frequencies of the residues at every position, which is crucial for a more complete understanding of such sequences.
+
+It should then come as no surprise that these logos have become ubiquitous in many Molecular Biology and Bioinformatics studies, being the preferred method of visually displaying consensus sequences.
+
+\section{Shortcomings of Sequence Logos}
+
+Of course, like most visual representations of data, Sequence Logos are not without its drawbacks. Many of which are derived from the fact that, when converting raw data to a some form of visual display, there is some information that is lost in that process. There can be instances in which that information can have some relevance in the study, so researchers should beware of relying solely on these logos to study consensus sequences.
+
+\subsection{Biases in Sequence Logo analysis}
+
+Even though graphical tools, in general, have a tendency to minimize biases in decision-making \parencite{cook2008}, one should tread carefully in asserting that Sequence Logos are ideal ways to analyse biological data.
+
+A 2012 study by Nung Kion and Yin Bee \parencite{nungkion2012} has uncovered that researchers have a tendency to misuse Sequence Logos in computational transcription factor analysis. The authors arrived at that conclusion by analysing published articles and studying the validity of the conclusions derived from Sequence Logo analysis. That analysis yielded that, in biological assays, the use of these logos tends to be more accurate because researchers complement their studies with statistical testing and additional biological data, rather than only relying on the logo itself. In sharp contrast, there is a significant tendency for biases in computational analysis, mainly confirmation bias \parencite{nungkion2012}.
+
+These judgement errors usually occurred when researchers compared their algorithm with another by visual comparison of the two Sequence Logos \parencite{nungkion2012}. These comparisons, according to the authors, are unfair because the Sequence Logo does not provide enough information to objectively access the quality difference of the two methods, adding that these depictions were not designed to allow easy comparison of similarity between them without expert knowledge on the motif being studied.
+
+Perhaps one of the main reason why comparing Sequence Logos is so prone to bias is because scientific findings rely on reliable and systematic evidence to be corroborated, whereas evidence that relies solely on visual interpretations, like in these cases, is not solid enough to meet the criteria associated with the scientific method \parencite{nungkion2012}.
+
+
+\subsection{Readability and usability}
+
+The design of the Web Logo is far from ideal, as the letters are distorted to represent the conservation and frequency of the residue. That means readability takes a bit hit, as it's harder to distinguish the letters if they're very distorted, particularly the ones that have less significance. One could argue that those, because they're less frequent, are less important, but in protein Sequence Logos, that have many more letters than nucleic acid Sequence Logos, important information may be missed due to poor readability, especially if it's a small figure in a printed paper.
+
+On that note, the fact that Sequence Logos are static and non-interactive also limits the amount of information that they can carry and how they involve the reader. These are, as stated by its original authors, simple tools \parencite{schneider1990}, so one can not expect much user intractability from them, as they were designed to be placed on printed materials and to provide the most relevant information at a glance.
+
+Some authors \parencite{nungkion2012} also argue that the use of colours can be a drawback as well, as visualisations may appear more convincing than they really are, the colours in a Sequence Logo may impress the reader more than the actual quality of the motifs presented.
+
+
+\section{New approaches}
+
+Since the introduction of the Sequence Logo there have been new approaches that attempt to mitigate the shortcomings of Sequence Logos, this section presents some examples of such approaches.
+
+\subsection{ProfileGrids}
+
 
 
 

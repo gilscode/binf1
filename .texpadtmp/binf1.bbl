@@ -1,0 +1,364 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{cook2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=0a56a8d087baa4d9d35f0ba0da1b5666}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=27dff1ad0a2887cd6eabb45ee759d7c6}{%
+           family={Smallman},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7318890596d030d13b1c69afd0b403e}
+      \strng{fullhash}{b7318890596d030d13b1c69afd0b403e}
+      \strng{bibnamehash}{b7318890596d030d13b1c69afd0b403e}
+      \strng{authorbibnamehash}{b7318890596d030d13b1c69afd0b403e}
+      \strng{authornamehash}{b7318890596d030d13b1c69afd0b403e}
+      \strng{authorfullhash}{b7318890596d030d13b1c69afd0b403e}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{1}
+      \field{issn}{0018-7208}
+      \field{journaltitle}{Human Factors: The Journal of the Human Factors and Ergonomics Society}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{5}
+      \field{shortjournal}{Human Factors: The Journal of the Human Factors and Ergonomics Society}
+      \field{shorttitle}{Human {{Factors}} of the {{Confirmation Bias}} in {{Intelligence Analysis}}}
+      \field{title}{Human {{Factors}} of the {{Confirmation Bias}} in {{Intelligence Analysis}}: {{Decision Support From Graphical Evidence Landscapes}}}
+      \field{urlday}{24}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{50}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{745\bibrangedash 754}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1518/001872008X354183
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/JNA9WHIE/Cook and Smallman - 2008 - Human Factors of the Confirmation Bias in Intellig.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://hfs.sagepub.com/cgi/doi/10.1518/001872008X354183
+      \endverb
+      \verb{url}
+      \verb http://hfs.sagepub.com/cgi/doi/10.1518/001872008X354183
+      \endverb
+    \endentry
+    \entry{crooks2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a68e23db6628c02ebce2eeb792a513c4}{%
+           family={Crooks},
+           familyi={C\bibinitperiod},
+           given={G.\bibnamedelimi E.},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{a68e23db6628c02ebce2eeb792a513c4}
+      \strng{fullhash}{a68e23db6628c02ebce2eeb792a513c4}
+      \strng{bibnamehash}{a68e23db6628c02ebce2eeb792a513c4}
+      \strng{authorbibnamehash}{a68e23db6628c02ebce2eeb792a513c4}
+      \strng{authornamehash}{a68e23db6628c02ebce2eeb792a513c4}
+      \strng{authorfullhash}{a68e23db6628c02ebce2eeb792a513c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{12}
+      \field{issn}{1088-9051}
+      \field{journaltitle}{Genome Research}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{6}
+      \field{shortjournal}{Genome Research}
+      \field{shorttitle}{{{WebLogo}}}
+      \field{title}{{{WebLogo}}: {{A Sequence Logo Generator}}}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{14}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1188\bibrangedash 1190}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1101/gr.849004
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/FWF88A3U/Crooks - 2004 - WebLogo A Sequence Logo Generator.pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.genome.org/cgi/doi/10.1101/gr.849004
+      \endverb
+      \verb{url}
+      \verb http://www.genome.org/cgi/doi/10.1101/gr.849004
+      \endverb
+    \endentry
+    \entry{liljas2001}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=752dd95fd3515fa05f709ab141d9d38a}{%
+           family={Liljas},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{752dd95fd3515fa05f709ab141d9d38a}
+      \strng{fullhash}{752dd95fd3515fa05f709ab141d9d38a}
+      \strng{bibnamehash}{752dd95fd3515fa05f709ab141d9d38a}
+      \strng{authorbibnamehash}{752dd95fd3515fa05f709ab141d9d38a}
+      \strng{authornamehash}{752dd95fd3515fa05f709ab141d9d38a}
+      \strng{authorfullhash}{752dd95fd3515fa05f709ab141d9d38a}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of {{Genetics}}}
+      \field{isbn}{978-0-12-227080-2}
+      \field{langid}{english}
+      \field{title}{Consensus {{Sequence}}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{457\bibrangedash 458}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1006/rwgn.2001.0270
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/EQ99QN6G/Liljas - 2001 - Consensus Sequence.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B0122270800002706
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B0122270800002706
+      \endverb
+    \endentry
+    \entry{ma2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bd34369807544386e87fa01a2b7b6578}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Jiong},
+           giveni={J\bibinitperiod}}}%
+        {{hash=565986788699bb68de1b572ead6b9afc}{%
+           family={Campbell},
+           familyi={C\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a11e93e0362df64e6137422fd4265757}{%
+           family={Karlin},
+           familyi={K\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e679540f973460d090cc4cc9c3817f2a}
+      \strng{fullhash}{e679540f973460d090cc4cc9c3817f2a}
+      \strng{bibnamehash}{e679540f973460d090cc4cc9c3817f2a}
+      \strng{authorbibnamehash}{e679540f973460d090cc4cc9c3817f2a}
+      \strng{authornamehash}{e679540f973460d090cc4cc9c3817f2a}
+      \strng{authorfullhash}{e679540f973460d090cc4cc9c3817f2a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ABSTRACT This work assesses relationships for 30 complete prokaryotic genomes between the presence of the Shine-Dalgarno (SD) sequence and other gene features, including expression levels, type of start codon, and distance between successive genes. A significant positive correlation of the presence of an SD sequence and the predicted expression level of a gene based on codon usage biases was ascertained, such that predicted highly expressed genes are more likely to possess a strong SD sequence than average genes. Genes with AUG start codons are more likely than genes with other start codons, GUG or UUG, to possess an SD sequence. Genes in close proximity to upstream genes on the same coding strand in most genomes are significantly higher in SD presence. In light of these results, we discuss the role of the SD sequence in translation initiation and its relationship with predicted gene expression levels and with operon structure in both bacterial and archaeal genomes.}
+      \field{day}{15}
+      \field{issn}{0021-9193, 1098-5530}
+      \field{journaltitle}{Journal of Bacteriology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{20}
+      \field{shortjournal}{JB}
+      \field{title}{Correlations between {{Shine}}-{{Dalgarno Sequences}} and {{Gene Features Such}} as {{Predicted Expression Levels}} and {{Operon Structures}}}
+      \field{urlday}{22}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{184}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5733\bibrangedash 5745}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1128/JB.184.20.5733-5745.2002
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/MIYTUK4V/Ma et al. - 2002 - Correlations between Shine-Dalgarno Sequences and .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://JB.asm.org/content/184/20/5733
+      \endverb
+      \verb{url}
+      \verb https://JB.asm.org/content/184/20/5733
+      \endverb
+    \endentry
+    \entry{nungkion2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6d3e8974d4565e14048a4cf105f3b1dc}{%
+           family={Nung\bibnamedelima Kion},
+           familyi={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+        {{hash=791f9c33958660ab69c6cdd5e914d063}{%
+           family={Yin\bibnamedelima Bee},
+           familyi={Y\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Oon},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \strng{fullhash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \strng{bibnamehash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \strng{authorbibnamehash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \strng{authornamehash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \strng{authorfullhash}{f949c9e0a7fe17b99b9f505f1df0ed25}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Sequence Logo is a visualization method for displaying conservations characteristics of a sequence (DNA, RNA, proteins) motif profile obtained from either wet-lab or computational analysis. Usage of visualization in decision making carries some elements of subjectivity. In addition, people's decisions are often biased in favor of their proposed hypotheses. The objectives of this paper were to examine the biases in using sequence logo as an evaluation metric for transcription factor analysis and identify some critical weaknesses in sequence logo for possible future improvements. Document analysis and subject matter expert interviews method were used for information gathering. We found that sequence logo has been frequently misused to support the results obtained from computational transcription factor analysis. In addition, we suggest that current sequence logo can be improved in several aspects to support various users' needs and minimize elements of subjectivity in decision making.}
+      \field{day}{1}
+      \field{issn}{978-1-4673-1732-0}
+      \field{journaltitle}{2012 Southeast Asian Network of Ergonomics Societies Conference (SEANES), Network of Ergonomics Societies Conference (SEANES), 2012 Southeast Asian}
+      \field{month}{7}
+      \field{shortjournal}{2012 Southeast Asian Network of Ergonomics Societies Conference (SEANES), Network of Ergonomics Societies Conference (SEANES), 2012 Southeast Asian}
+      \field{title}{Decision Making Biases in Using Sequence Logo Visualization}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SEANES.2012.6299605
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/2WNJPKVV/Lee and Oon - 2012 - Decision making biases in using sequence logo visu.pdf
+      \endverb
+      \keyw{Bioinformatics,Communication; Networking and Broadcast Technologies,Components; Circuits; Devices and Systems,Computing and Processing,Decision making,DNA,Power; Energy and Industry Applications,Proteins,RNA,Visualization}
+    \endentry
+    \entry{pierce2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a4b4a2c6bb22018e232d3b676d650432}{%
+           family={Pierce},
+           familyi={P\bibinitperiod},
+           given={Benjamin\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {W.H. Freeman}%
+      }
+      \strng{namehash}{a4b4a2c6bb22018e232d3b676d650432}
+      \strng{fullhash}{a4b4a2c6bb22018e232d3b676d650432}
+      \strng{bibnamehash}{a4b4a2c6bb22018e232d3b676d650432}
+      \strng{authorbibnamehash}{a4b4a2c6bb22018e232d3b676d650432}
+      \strng{authornamehash}{a4b4a2c6bb22018e232d3b676d650432}
+      \strng{authorfullhash}{a4b4a2c6bb22018e232d3b676d650432}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{4th ed}
+      \field{isbn}{978-1-4292-3250-0}
+      \field{langid}{english}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Genetics}
+      \field{title}{Genetics: A Conceptual Approach}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \keyw{Genetics}
+    \endentry
+    \entry{schneider1990}{article}{}
+      \name{author}{2}{}{%
+        {{hash=895a2d6979f7e15f0bf354413b80b9af}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Thomas\bibnamedelima D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a5d470abcf3617f982fcb3a17cc2a425}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={R.Michael},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \strng{fullhash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \strng{bibnamehash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \strng{authorbibnamehash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \strng{authornamehash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \strng{authorfullhash}{c56e3d367e346d8c7b6c6e1383e04bd9}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0305-1048, 1362-4962}
+      \field{journaltitle}{Nucleic Acids Research}
+      \field{langid}{english}
+      \field{number}{20}
+      \field{shortjournal}{Nucl Acids Res}
+      \field{shorttitle}{Sequence Logos}
+      \field{title}{Sequence Logos: A New Way to Display Consensus Sequences}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{18}
+      \field{year}{1990}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{6097\bibrangedash 6100}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1093/nar/18.20.6097
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/NA2JB8IM/Schneider and Stephens - 1990 - Sequence logos a new way to display consensus seq.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/18.20.6097
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/18.20.6097
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

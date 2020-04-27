@@ -1,0 +1,15 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is '/Users/gil/Documents/binf1/.texpadtmp/binf1.blg'
+[41] biber-darwin:315> INFO - === Sun Apr 26, 2020, 19:49:35
+[66] Biber.pm:371> INFO - Reading '/Users/gil/Documents/binf1/.texpadtmp/binf1.bcf'
+[148] Biber.pm:889> INFO - Found 7 citekeys in bib section 0
+[161] Biber.pm:4093> INFO - Processing section 0
+[173] Biber.pm:4254> INFO - Looking for bibtex format file '/Users/gil/Documents/binf1/bib.bib' for section 0
+[175] bibtex.pm:1523> INFO - LaTeX decoding ...
+[212] bibtex.pm:1340> INFO - Found BibTeX data source '/Users/gil/Documents/binf1/bib.bib'
+[283] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[283] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[283] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[283] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[299] bbl.pm:636> INFO - Writing '/Users/gil/Documents/binf1/.texpadtmp/binf1.bbl' with encoding 'UTF-8'
+[301] bbl.pm:739> INFO - Output to /Users/gil/Documents/binf1/.texpadtmp/binf1.bbl
