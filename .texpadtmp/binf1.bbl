@@ -306,6 +306,114 @@
       \field{dateera}{ce}
       \keyw{Genetics}
     \endentry
+    \entry{roca2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=962e65fdfae1d392490c9502f68c87db}{%
+           family={Roca},
+           familyi={R\bibinitperiod},
+           given={Alberto\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{962e65fdfae1d392490c9502f68c87db}
+      \strng{fullhash}{962e65fdfae1d392490c9502f68c87db}
+      \strng{bibnamehash}{962e65fdfae1d392490c9502f68c87db}
+      \strng{authorbibnamehash}{962e65fdfae1d392490c9502f68c87db}
+      \strng{authornamehash}{962e65fdfae1d392490c9502f68c87db}
+      \strng{authorfullhash}{962e65fdfae1d392490c9502f68c87db}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: The 2013 BioVis Contest provided an opportunity to evaluate different paradigms for visualizing protein multiple sequence alignments. Such data sets are becoming extremely large and thus taxing current visualization paradigms. Sequence Logos represent consensus sequences but have limitations for protein alignments. As an alternative, ProfileGrids are a new protein sequence alignment visualization paradigm that represents an alignment as a color-coded matrix of the residue frequency occurring at every homologous position in the aligned protein family. Results: The JProfileGrid software program was used to analyze the BioVis contest data sets to generate figures for comparison with the Sequence Logo reference images. Conclusions: The ProfileGrid representation allows for the clear and effective analysis of protein multiple sequence alignments. This includes both a general overview of the conservation and diversity sequence patterns as well as the interactive ability to query the details of the protein residue distributions in the alignment. The JProfileGrid software is free and available from www.ProfileGrid.org.}
+      \field{issn}{1753-6561}
+      \field{journaltitle}{BMC Proceedings}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{S2}
+      \field{shortjournal}{BMC Proc}
+      \field{shorttitle}{{{ProfileGrids}}}
+      \field{title}{{{ProfileGrids}}: A Sequence Alignment Visualization Paradigm That Avoids the Limitations of {{Sequence Logos}}}
+      \field{urlday}{14}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{8}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{S6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1186/1753-6561-8-S2-S6
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/PPTULTDF/Roca - 2014 - ProfileGrids a sequence alignment visualization p.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-8-S2-S6
+      \endverb
+      \verb{url}
+      \verb https://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-8-S2-S6
+      \endverb
+    \endentry
+    \entry{roca2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=962e65fdfae1d392490c9502f68c87db}{%
+           family={Roca},
+           familyi={R\bibinitperiod},
+           given={Alberto\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=2ed7f8de1a4f634def2624a57fa429e0}{%
+           family={Almada},
+           familyi={A\bibinitperiod},
+           given={Albert\bibnamedelima E},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e31326645cd42f575f4ebc2aafdc764b}{%
+           family={Abajian},
+           familyi={A\bibinitperiod},
+           given={Aaron\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b23c22a6236002a02ab42a6c20147ed4}
+      \strng{fullhash}{b23c22a6236002a02ab42a6c20147ed4}
+      \strng{bibnamehash}{b23c22a6236002a02ab42a6c20147ed4}
+      \strng{authorbibnamehash}{b23c22a6236002a02ab42a6c20147ed4}
+      \strng{authornamehash}{b23c22a6236002a02ab42a6c20147ed4}
+      \strng{authorfullhash}{b23c22a6236002a02ab42a6c20147ed4}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Background: Multiple sequence alignments are a fundamental tool for the comparative analysis of proteins and nucleic acids. However, large data sets are no longer manageable for visualization and investigation using the traditional stacked sequence alignment representation. Results: We introduce ProfileGrids that represent a multiple sequence alignment as a matrix color-coded according to the residue frequency occurring at each column position. JProfileGrid is a Java application for computing and analyzing ProfileGrids. A dynamic interaction with the alignment information is achieved by changing the ProfileGrid color scheme, by extracting sequence subsets at selected residues of interest, and by relating alignment information to residue physical properties. Conserved family motifs can be identified by the overlay of similarity plot calculations on a ProfileGrid. Figures suitable for publication can be generated from the saved spreadsheet output of the colored matrices as well as by the export of conservation information for use in the PyMOL molecular visualization program. We demonstrate the utility of ProfileGrids on 300 bacterial homologs of the RecA family – a universally conserved protein involved in DNA recombination and repair. Careful attention was paid to curating the collected RecA sequences since ProfileGrids allow the easy identification of rare residues in an alignment. We relate the RecA alignment sequence conservation to the following three topics: the recently identified DNA binding residues, the unexplored MAW motif, and a unique Bacillus subtilis RecA homolog sequence feature. Conclusion: ProfileGrids allow large protein families to be visualized more effectively than the traditional stacked sequence alignment form. This new graphical representation facilitates the determination of the sequence conservation at residue positions of interest, enables the examination of structural patterns by using residue physical properties, and permits the display of rare sequence features within the context of an entire alignment. JProfileGrid is free for noncommercial use and is available from http://www.profilegrid.org. Furthermore, we present a curated RecA protein collection that is more diverse than previous data sets; and, therefore, this RecA ProfileGrid is a rich source of information for nanoanatomy analysis.}
+      \field{issn}{1471-2105}
+      \field{journaltitle}{BMC Bioinformatics}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{1}
+      \field{shortjournal}{BMC Bioinformatics}
+      \field{shorttitle}{{{ProfileGrids}} as a New Visual Representation of Large Multiple Sequence Alignments}
+      \field{title}{{{ProfileGrids}} as a New Visual Representation of Large Multiple Sequence Alignments: A Case Study of the {{RecA}} Protein Family}
+      \field{urlday}{27}
+      \field{urlmonth}{4}
+      \field{urlyear}{2020}
+      \field{volume}{9}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{554}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/1471-2105-9-554
+      \endverb
+      \verb{file}
+      \verb /Users/gil/Zotero/storage/K6HH2KLM/Roca et al. - 2008 - ProfileGrids as a new visual representation of lar.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-554
+      \endverb
+      \verb{url}
+      \verb https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-554
+      \endverb
+    \endentry
     \entry{schneider1990}{article}{}
       \name{author}{2}{}{%
         {{hash=895a2d6979f7e15f0bf354413b80b9af}{%
